@@ -1,0 +1,28 @@
+  381  git log
+  382  git clone https://github.com/EuSalgado/Checkpoint-18-Ago-23-EustorgioSalgado.git
+  383  ls
+  384  cd Checkpoint-18-Ago-23-EustorgioSalgado/
+  385  touch main.js index.html
+  386  git add .
+  387  git commit -m "commit 01 de EustorgioSalgado"
+  388  git branch feature
+  389  git move branch feature
+  390  git remote branch feature
+  391  git checkout feature
+  392  mkdir Hardware Software SeguridadInformatica
+  393  touch Hardware/resumen.txt
+  394  touch Software/resumen.txt
+  395  touch SeguridadInformatica/resumen.txt
+  396  git add .
+  397  git commit -m "commit 02 de EustorgioSalgado"
+  398  git push origin feature
+  399  git checkout main
+  400  ls
+  401  mv main.js resumenHardware.txt
+  402  mv index.html resumenSoftware.txt
+  403  ls
+  404  nano resumenHardware.txt
+  405  nano resumenSoftware
+  406  history50
+  407  history 50
+  408  history 28 > comandos.txt
